@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Evil Ass Banking - Accounts API - PROD Version"
   contactDetails:
     name: "Edu Romero - Lead Developer"
-    email: "4e8ef0e80c0dfe7e58ea2946f6170c0045c3c4f8a87db60611d607ae42126bc4b76a7edf0f1fa7156877ec2b0fbfd07a"
+    email: "{cipher}4e8ef0e80c0dfe7e58ea2946f6170c0045c3c4f8a87db60611d607ae42126bc4b76a7edf0f1fa7156877ec2b0fbfd07a"
   onCallSupport:
     - +34 654321987
     - +34 654987321
