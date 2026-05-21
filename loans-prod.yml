@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Evil Ass Banking - Loans API - PROD Version"
+  message: "Welcome to Evil Ass Banking - Loans API - PROD Version - Now with webhooks!!"
   contactDetails:
     name: "Edu Romero - Lead Developer"
     email: "edu@romero.com"
